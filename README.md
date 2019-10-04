@@ -14,24 +14,27 @@ We are using two datasets:
 
 ## CAB_RIDES.CSV DATA
 
-* distance- distance between source and destination
-* cab_type- Uber or Lyft
-* time_stamp- epoch time when data was queried
-* destination- destination of the ride
-* source- the starting point of the ride
-* price- price estimate for the ride in USD
-* surge_multiplier- the multiplier by which price was increased, default 1
-* id- unique identifier
-* product_id- uber/lyft identifier for cab-type
-* name-Visible type of the cab eg: Uber Pool, UberXL
+Name | Description
+-----|-------------
+distance|Age of Employee
+cab_type|Uber or Lyft
+time_stamp|epoch time when data was queried Travel
+destination|destination of the ride 
+source|the starting point of the ride
+price|price estimate for the ride in USD
+surge_multiplier|the multiplier by which price was increased, default
+id|unique identifier
+product_id|Uber/lyft identifier for cab-type
+name|Visible type of the cab eg: Uber Pool, UberX
 
 ## WEATHER.CSV DATA
 
-* temp- Temperature in F
-* location- Location name
-* clouds- Clouds
-* pressure- pressure in mb
-* rain- rain in inches for the last hr
-* time_stamp- epoch time when row data was collected
-* humidity- humidity in %
-* wind- wind speed in mph
+Name | Description
+-----|-------------
+temp|Temperature in F
+clouds|Clouds
+pressure|pressure in mb 
+rain|rain in inches for the last hr
+time_stamp|epoch time when row data was collected
+humidity|humidity in %
+wind|wind speed in mph
