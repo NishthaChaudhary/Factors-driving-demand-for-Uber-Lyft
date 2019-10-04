@@ -12,7 +12,7 @@ We are using two datasets:
 
 # Attribute Information
 
-*CAB_RIDES.CSV DATA
+##CAB_RIDES.CSV DATA
 
 * distance- distance between source and destination
 * cab_type- Uber or Lyft
@@ -25,7 +25,7 @@ We are using two datasets:
 * product_id- uber/lyft identifier for cab-type
 * name-Visible type of the cab eg: Uber Pool, UberXL
 
-*WEATHER.CSV DATA
+##WEATHER.CSV DATA
 
 * temp- Temperature in F
 * location- Location name
