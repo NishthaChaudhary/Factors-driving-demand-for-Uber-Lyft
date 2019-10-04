@@ -16,7 +16,7 @@ We are using two datasets:
 
 Name | Description
 -----|-------------
-distance|Age of Employee
+distance|Distance between source and destination
 cab_type|Uber or Lyft
 time_stamp|epoch time when data was queried Travel
 destination|destination of the ride 
